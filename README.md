@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amr Emara
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in full-stack web development
 - 📫 You can reach me at a.emara47@gmail.com
 
 <!---
